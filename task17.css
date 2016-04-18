@@ -1,0 +1,13 @@
+fieldset:nth-last-child(2) {
+  min-height: 200px;
+}
+
+.aqi-chart-wrap {
+  display: flex;
+  align-items: flex-end;
+}
+
+.pode {
+  border: #fff 1px solid;
+  margin-left: 10px;
+}
