@@ -1,0 +1,6 @@
+.queue-node {
+    background-color: red;
+    padding: 20px;
+    display: inline-block;
+    margin-left: 10px;
+}
